@@ -6,10 +6,35 @@ body{
 
 body > h1 >p{
     color: white;
+    
 }
-form{
+
+.form-page{
+    width: 600px;
+    padding: 20px;
+    margin: 50px 30%;
+    background-color: white;
+    text-align: left;
+}
+
+
+.title{
+    color: #fff;
+    font-size: 35px;
+}
+
+.description{
+    color: #fff;
+    font-size: 25px;
+}
+
+input{
+    padding: 15px 0;
+}
+
+/*form{
     text-align: left;
     margin: 20px 35%;
     max-width: 500px;
-    background-color: white;
+    
 }
