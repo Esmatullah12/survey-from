@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-image: url(images/background.webp);
+    background-attachment: fixed;
+}
+
+body > h1 >p{
+    color: white;
+}
+form{
+    text-align: left;
+    margin: 20px 35%;
+    max-width: 500px;
+    background-color: white;
+}
